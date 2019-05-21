@@ -22,3 +22,10 @@ Always check syntax before using playbook
 
 ansible-playbook --syntax-check lightsail.yml
 
+references :
+
+1. ansible-docs module_name
+
+ex:  ansible-docs lightsail
+
+2. Ansible offical docs
