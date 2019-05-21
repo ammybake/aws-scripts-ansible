@@ -27,7 +27,17 @@ Amazon or AWS Lightsail
    
 9. Everything that you do from the lightsail console can also be done with an API call.
 
-10. Each lightsail instances automatically ets a private IP address and Public IP address.
+10. Each lightsail instances automatically ets a private IP address and Public IP address. Which are reachable from the internet 
+    you can use the private IP to send data to other lightsail instances and aws resources in private , for free , you can also
+    subsitute the public public ip of a lightsail instance with a static IP.
+    
+11. With lightsail , you can also mapyour registered domain names such as example.com to the public ip's of your lightsail instances.
+
+12. To use a domain in lightsail , you must firs register it, this can be din using Route 53
+
+13. Snapshot cna be used to backup your data wiithin lightsail. These snapshot can be used to create a new lightsail instance.
+
+14. Each  lightsail plan comes wht a free data transfer allowence.
    
    
    
