@@ -1,0 +1,35 @@
+This doc is created by integrating the different sources from internet.
+
+Amazon or AWS Lightsail
+
+1. Aws lightsail is an easy way for developers to get started with a simple virtual private server ( VPS )  solutions.
+
+2. Lightsail provides compute, storage and networking capacity and capabilities to deploy and manage website and web application 
+   in the cloud.
+   
+3. Lightsail includes everything you need to launch your projec uickly - a virtual machine , ssd - based sorage, datatransfer 
+   DNS management and static IP.
+   
+4. Lightsail is best suited to project that require a few virtual private servers and users who prefer a simple management 
+   interfaces.
+   
+5. Common use of lightsail includes running websites, web applications, blogs, e-commerce site , simple software and more.
+
+6. Lighsail offers a range of operating system and applicaions templates that are automatically installed when you create a new
+   lightsail instances. Application templates includes wordpress, drupal , joomla , magento , redmine , lamp ,nginx , mean , nodejs
+   and more.
+   
+7. Lighsail is available in 44 availability zone and 16 egions globally.
+
+8. A lightsail plan includes a virtual server with a fied amount of memory ( RAM ) and compute ( vCPUs) , SSD-based storage ( disks)
+   and a free data transfer allocation. Lightsail plans also offers static ip address ( 5 per accoounts ) Lightsail plans are 
+   chagred on an hourly demand basis, so you can nly par fir a plan when you using it.
+   
+9. Everything that you do from the lightsail console can also be done with an API call.
+
+10. Each lightsail instances automatically ets a private IP address and Public IP address.
+   
+   
+   
+   
+   
